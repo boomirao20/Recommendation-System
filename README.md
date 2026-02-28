@@ -205,9 +205,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Author**: Boomi Rao
-- **Phone Number**: 9167280514
-- **Email**: boomirao0720@gmail.com
-- **LinkedIn**: (https://www.linkedin.com/in/boomirao20/)
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile]
+- **Twitter**: [@YourTwitter]
 
 ---
 
