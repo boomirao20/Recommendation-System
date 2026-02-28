@@ -3,6 +3,8 @@ import pandas as pd
 import joblib
 import requests
 import random
+import os
+from dotenv import load_dotenv
 
 # ========== PAGE CONFIG ==========
 st.set_page_config(layout="wide", page_title="Bollywood AI Recommender")
@@ -51,7 +53,8 @@ similarity_matrix = data["similarity"]
 title_column = df.columns[0]
 
 # ========== TMDB ==========
-TMDB_API_KEY = "6cd9c3a50f11cc3c8d9b5b5225ee129b"
+load_dotenv()
+TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 
 def fetch_poster(title):
     url = "https://api.themoviedb.org/3/search/movie"
