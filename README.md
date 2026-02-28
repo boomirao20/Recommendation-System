@@ -7,10 +7,6 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3%2B-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-*Discover your next favorite Bollywood movie with AI-powered recommendations*
-
-[🚀 Live Demo](#) · [📖 Documentation](#features) · [🤝 Contributing](#contributing)
-
 </div>
 
 ## ✨ Features
