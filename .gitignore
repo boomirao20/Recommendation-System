@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore model folder and model files
+model/
+*.pkl
+
+# Ignore environment variables file (for API keys)
+.env
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
