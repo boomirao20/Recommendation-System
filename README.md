@@ -205,10 +205,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 - **Author**: Boomi Rao
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [@YourTwitter]
-
+- **Email**: boomirao0720@gmail.com.com
+- **LinkedIn**: https://www.linkedin.com/in/boomirao20/
 ---
 
 <div align="center">
